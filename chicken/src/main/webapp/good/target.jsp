@@ -8,5 +8,6 @@
 </head>
 <body>
 
+	<a href="../index.jsp">Back to Index</a>
 </body>
 </html>

@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+	
+	<a href="good/target.jsp">To Target</a>
 </body>
 </html>
