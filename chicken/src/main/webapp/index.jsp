@@ -9,5 +9,7 @@
 <body>
 	
 	<a href="good/target.jsp">To Target</a>
+	<br/>
+	<a href="TargetServlet">To Target By Dispatcher</a>
 </body>
 </html>
