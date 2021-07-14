@@ -8,6 +8,16 @@
   <artifactId>Hello</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
+  <!-- 子工程中生命父工程 -->
+  <parent>
+  	<groupId>com.dragontalker.maven</groupId>
+	<artifactId>Parent</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	
+	<!-- 以当前工程的pom.xml文件为基准的父工程pom.xml的相对路径 -->
+	<relativePath>../Parent/pom.xml</relativePath>
+  </parent>
+  
   <properties>
   	<dragontalker.spring.version>4.0.0.RELEASE</dragontalker.spring.version>
   </properties>
