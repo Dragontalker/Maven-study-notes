@@ -1,5 +1,5 @@
 package com.dragontalker.maven;
-import static junit.framwork.Assert.assertEquals;
+import static junit.framework.Assert.assertEquals;
 import org.junit.Test;
 
 public class MakeFriendsTest {
