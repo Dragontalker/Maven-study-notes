@@ -1,7 +1,6 @@
 package com.dragontalker.maven;
 import static junit.framework.Assert.assertEquals;
 import org.junit.Test;
-import com.dragontalker.maven.Hello;
 
 public class HelloFriendTest {
     @Test
