@@ -7,6 +7,10 @@
   <groupId>com.dragontalker.maven</groupId>
   <artifactId>Hello</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <properties>
+  	<dragontalker.spring.version>4.0.0.RELEASE</dragontalker.spring.version>
+  </properties>
 
   <name>Hello</name>
 
