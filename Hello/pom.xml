@@ -3,7 +3,7 @@
          xmlns:xmi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
-  <modelVersion>4.0</modelVersion>
+  <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.dragontalker.maven</groupId>
   <artifactId>Hello</artifactId>
@@ -14,7 +14,7 @@
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
-      <artifactId>junit</groupId>
+      <artifactId>junit</artifactId>
       <version>4.0</version>
       <scope>test</scope>
     </dependency>
